@@ -32,7 +32,7 @@ div .texto {
 
 /*SELECTOR DE HIJO*/
 
-div #P1 span{
+div article span{
 
     color:red;
     background: yellow;
@@ -42,7 +42,7 @@ div #P1 span{
 
 
 
-div #P1 span{
+ div article span{
 
     color:red;
     background: yellow;
