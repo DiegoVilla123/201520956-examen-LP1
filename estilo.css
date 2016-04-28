@@ -15,7 +15,7 @@ background: #85cff0;
   margin-top:60px;
     text-align: center;
     text-align: justify;
-    width: 200px;
+    width: 600px;
  margin: 0 auto;
 
 
@@ -27,7 +27,36 @@ background: #85cff0;
 
     color: red;
 
+
+}
+
+#p1{
+
+     margin-top:60px;
+    text-align: center;
+    text-align: justify;
+    width: 600px;
+ margin: 0 auto;
+
+
+}
+
+#p2 span{
+
+    color:red;
 }
 
 
+
+
+#p2{
+
+     margin-top:60px;
+    text-align: center;
+    text-align: justify;
+    width: 600px;
+ margin: 0 auto;
+
+
+}
 
