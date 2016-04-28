@@ -3,21 +3,23 @@ h1{
 
 background: #85cff0;
     color: black;
-    margin-top:5px;
+    margin-top:20px;
 
 
 }
 
 
 .texto{
-    background: red;
+
+
     color:black;
     font-size: 20px;
+     margin-top:60px
 }
 
 
 .texto1{
-    background: #ff861e;
+
     color:black;
     font-size: 15px;
 }
@@ -26,7 +28,7 @@ background: #85cff0;
 
 #articulo {
 
-    background: #63cea5;
+
     color: black;
     text-align: center;
     text-align: justify;
@@ -57,7 +59,7 @@ font-size: 20px;
 
 h3 {
 
-  background:yellow;
+
   text-align: center;
 
 
