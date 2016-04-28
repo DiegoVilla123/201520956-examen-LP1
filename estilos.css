@@ -1,18 +1,54 @@
-/*SELECTOR DE HERMANO GENERAL*/
+/*SELECTOR HERMANO GENERAL*/
+
+p {
+
+    color: blue;
+    font-size: 20px;
+    text-align: justify;
+
+}
+
+
+
+
 /*SELECTOR HERMANO ADYACENTE*/
-/*SELECTOR HIJO*/
+
+div .texto {
+
+    color:black;
+    font-size: 25px;
+    text-align: center;
+}
+
+div .texto {
+
+    color:black;
+    font-size: 25px;
+    text-align: center;
+}
 
 
 
-/*SELECTOR ATRIBUTO CONTIENE*/
-/*SELECTOR ATRIBUTO COMIENZA CON*/
-/*SELECTOR ATRIBUTO DE UNA LISTA DE VALORES SEPARADOS POR ESPACIO*/
+
+/*SELECTOR DE HIJO*/
+
+div #P1 span{
+
+    color:red;
+    background: yellow;
+    font-size: 15px;
+
+}
 
 
 
+div #P1 span{
 
+    color:red;
+    background: yellow;
+    font-size: 15px;
 
-
+}
 
 
 
