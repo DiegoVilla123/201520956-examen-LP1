@@ -25,10 +25,14 @@
 
 
 .texto1{
-    background: ;
+    background: #ff861e;
     color:black;
-    font-size: 20px;
+    font-size: 15px;
 }
+
+
+
+
 
 /*SELECTOR DE ID*/
 
@@ -38,13 +42,13 @@
     color: black;
     text-align: center;
     text-align: justify;
-
 }
+
 
 
 #articulo1 {
 
-    background: #63cea5;
+    background: #c14bff;
     color: black;
     text-align: center;
     text-align: justify;
