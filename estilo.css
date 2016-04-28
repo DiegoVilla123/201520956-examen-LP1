@@ -1,0 +1,33 @@
+.texto{
+    background: red;
+    color:black;
+    font-size: 20px;
+}
+
+
+.texto1{
+    background: #ff861e;
+    color:black;
+    font-size: 15px;
+}
+
+
+
+#articulo {
+
+    background: #63cea5;
+    color: black;
+    text-align: center;
+    text-align: justify;
+
+}
+
+
+
+#articulo1 {
+
+    color: blue;
+    text-align: center;
+    text-align: justify;
+
+}
