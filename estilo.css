@@ -10,12 +10,23 @@ background: #85cff0;
 
 
 
+.texto{
+
+  margin-top:60px;
+    text-align: center;
+    text-align: justify;
+    width: 200px;
+ margin: 0 auto;
+
+
+}
+
 
 
 .texto span{
 
     color: red;
-    margin-top:40px;
+
 }
 
 
