@@ -9,63 +9,14 @@ background: #85cff0;
 }
 
 
-.texto{
 
 
-    color:black;
-    font-size: 20px;
-     margin-top:60px
+
+.texto span{
+
+    color: red;
+    margin-top:40px;
 }
-
-
-.texto1{
-
-    color:black;
-    font-size: 15px;
-}
-
-
-
-#articulo {
-
-
-    color: black;
-    text-align: center;
-    text-align: justify;
-
-}
-
-
-
-#articulo1 {
-
-    color: blue;
-    text-align: center;
-    text-align: justify;
-
-}
-
-
-
-div p span {
-
-color:green;
-text-align: justify;
-font-size: 20px;
-
-
-}
-
-
-h3 {
-
-
-  text-align: center;
-
-
-}
-
-
 
 
 
